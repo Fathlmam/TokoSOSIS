@@ -11,5 +11,5 @@
 4.hasil mengupdate data <p>
   <img src="https://github.com/Fathlmam/TokoSosis/blob/master/hasil%20update.png">
   
-5.hasil menambahkan data <p>
+5.hasil delete data <p>
   <img src="https://github.com/Fathlmam/TokoSosis/blob/master/hasil%20delete.png">
